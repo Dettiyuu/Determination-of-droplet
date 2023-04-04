@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 28 23:10:40 2023
-
-@author: Satoru
-"""
-
 absl-py==0.9.0
 astor==0.8.1
 bleach==3.1.5
